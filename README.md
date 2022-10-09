@@ -1,5 +1,4 @@
 # Text-Editor
-# Welcome to BringTheTech
 A single-page application that meets the PWA criteria. A text editor that runs in the browser, it will feature a number of data persistence techniques that serve as redundancies in case one of the options is not supported by the browser.
 
 ## 🧐 Table of Contents
